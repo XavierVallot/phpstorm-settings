@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="cons" value="console.log($END$);" description="js console.log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
