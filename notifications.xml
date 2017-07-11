@@ -1,0 +1,11 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="External Executable Critical Failures" displayType="NONE" shouldLog="false" />
+    <notification groupId="File Watcher Messages" displayType="NONE" shouldLog="false" />
+    <notification groupId="Localization and Internationalization" displayType="NONE" shouldLog="false" />
+    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Power Save Mode" shouldLog="false" />
+    <notification groupId="System Health (minor)" displayType="NONE" shouldLog="false" />
+    <notification groupId="Web Deployment" shouldLog="false" />
+  </component>
+</application>

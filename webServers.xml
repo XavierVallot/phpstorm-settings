@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d31b2d0c-7e0e-482b-a5bf-f27d96b7678f" name="dev" url="http://10.1.1.30">
+        <fileTransfer host="10.1.1.30" port="22" rootFolder="/home/xvallot/html/groupe361-site-agence/sites/all/themes/fo/g361_agence" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
