@@ -1,11 +1,34 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Composer" shouldLog="false" />
+    <notification groupId="Database detector" shouldLog="false" />
+    <notification groupId="Database execution log" displayType="NONE" shouldLog="false" />
+    <notification groupId="Database refactoring log" displayType="NONE" shouldLog="false" />
+    <notification groupId="Database view" shouldLog="false" />
+    <notification groupId="Database view log" displayType="NONE" shouldLog="false" />
     <notification groupId="External Executable Critical Failures" displayType="NONE" shouldLog="false" />
     <notification groupId="File Watcher Messages" displayType="NONE" shouldLog="false" />
+    <notification groupId="File Watchers" shouldLog="false" />
+    <notification groupId="JSCS Config Import" displayType="NONE" shouldLog="false" />
+    <notification groupId="JSCS Messages" shouldLog="false" />
+    <notification groupId="JSON Schema" displayType="NONE" shouldLog="false" />
+    <notification groupId="Linters" displayType="NONE" shouldLog="false" />
     <notification groupId="Localization and Internationalization" displayType="NONE" shouldLog="false" />
+    <notification groupId="PHP Interpreters" shouldLog="false" />
     <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Power Save Mode" shouldLog="false" />
+    <notification groupId="Project Startup Tasks Messages" displayType="NONE" shouldLog="false" />
+    <notification groupId="scrolling-capabilities-debug" displayType="NONE" shouldLog="false" />
+    <notification groupId="SSH Connections" shouldLog="false" />
     <notification groupId="System Health (minor)" displayType="NONE" shouldLog="false" />
+    <notification groupId="V8 CPU Profiling Messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="V8 Heap Snapshot Analysis Messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Vcs Messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Vcs Notifications" shouldLog="false" />
+    <notification groupId="Vcs Silent Notifications" displayType="NONE" shouldLog="false" />
     <notification groupId="Web Deployment" shouldLog="false" />
+    <notification groupId="WordPress" shouldLog="false" />
   </component>
 </application>
