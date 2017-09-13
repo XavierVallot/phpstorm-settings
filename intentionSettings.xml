@@ -1,5 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="PHP/Add getter and setter" />
-  </component>
-</application>
