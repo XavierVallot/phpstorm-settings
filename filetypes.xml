@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="http" type="PLAIN_TEXT" />
       <mapping ext="paw" type="PLAIN_TEXT" />
+      <mapping ext="last" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="XML" />
       <mapping ext="xlf" type="XML" />
     </extensionMap>
