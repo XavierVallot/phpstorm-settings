@@ -20,6 +20,11 @@
       <mask>*.php</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
+      <mask>*.x</mask>
+      <mask>*.xl</mask>
+      <mask>*.xli</mask>
+      <mask>*.xlif</mask>
+      <mask>*.xliff</mask>
     </recentFileMasks>
   </component>
 </application>
