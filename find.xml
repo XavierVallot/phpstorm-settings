@@ -18,12 +18,10 @@
       <mask>*.php, *.scss, *realisation*.php</mask>
       <mask>*.scss, *.js</mask>
       <mask>*.scss, *.js,</mask>
-      <mask>*.x</mask>
       <mask>*.xl</mask>
       <mask>*.xli</mask>
       <mask>*.xlif</mask>
       <mask>*.xliff</mask>
-      <mask>*.xml</mask>
       <mask>!*.xml</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
@@ -32,6 +30,9 @@
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
