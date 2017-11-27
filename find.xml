@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,8 +19,6 @@
       <mask>*.php, *.scss, *realisation*.php</mask>
       <mask>*.scss, *.js</mask>
       <mask>*.scss, *.js,</mask>
-      <mask>*.y</mask>
-      <mask>*.yml</mask>
       <mask>*.x</mask>
       <mask>*.xl</mask>
       <mask>*.xli</mask>
@@ -28,10 +26,13 @@
       <mask>*.xliff</mask>
       <mask>*.xml</mask>
       <mask>!*.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
