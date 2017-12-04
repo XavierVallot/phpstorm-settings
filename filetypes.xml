@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="http" type="PLAIN_TEXT" />
       <mapping ext="paw" type="PLAIN_TEXT" />
       <mapping ext="last" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="XML" />
