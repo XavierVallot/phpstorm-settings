@@ -32,6 +32,8 @@
       <mask>*.yml</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
