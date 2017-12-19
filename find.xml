@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'yProx'" />
+    <option name="defaultScopeName" value="Project 'yProx'" />
+    <option name="SEARCH_SCOPE" value="Project 'yProx'" />
     <recentFileMasks>
       <mask>*.java</mask>
       <mask>*.js</mask>
