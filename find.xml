@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Api" />
-    <option name="defaultScopeName" value="Api" />
-    <option name="SEARCH_SCOPE" value="Api" />
+    <option name="customScope" value="Open Files" />
+    <option name="defaultScopeName" value="Open Files" />
+    <option name="SEARCH_SCOPE" value="Open Files" />
     <recentFileMasks>
       <mask>*.java</mask>
       <mask>*.js</mask>
