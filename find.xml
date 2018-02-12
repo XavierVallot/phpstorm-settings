@@ -5,15 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*extension.php" />
     <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php, *.scss</mask>
-      <mask>*.php, *.scss, *realisation*.php</mask>
-      <mask>*.scss, *.js</mask>
       <mask>*.scss, *.js,</mask>
       <mask>*.xl</mask>
       <mask>*.xli</mask>
@@ -36,6 +29,14 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*e.php</mask>
+      <mask>*ex.php</mask>
+      <mask>*ext.php</mask>
+      <mask>*exte.php</mask>
+      <mask>*exten.php</mask>
+      <mask>*extens.php</mask>
+      <mask>*extensio.php</mask>
+      <mask>*extension.php</mask>
     </recentFileMasks>
   </component>
 </application>
