@@ -10,19 +10,16 @@
       <mask>*.xlif</mask>
       <mask>*.xliff</mask>
       <mask>!*.xml</mask>
-      <mask>*</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*.ml</mask>
       <mask>*.yml</mask>
       <mask>*.twig</mask>
       <mask>*.twi</mask>
       <mask>*.tw</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
@@ -34,6 +31,9 @@
       <mask>*extens.php</mask>
       <mask>*extensio.php</mask>
       <mask>*extension.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
