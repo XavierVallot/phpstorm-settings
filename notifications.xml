@@ -1,6 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId=".ignore plugin" />
+    <notification groupId=".ignore plugin" shouldLog="false" />
     <notification groupId=".ignore plugin update information" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="File Watcher Messages" displayType="STICKY_BALLOON" shouldLog="false" />
