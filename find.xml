@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="Open Files" />
     <option name="SEARCH_SCOPE" value="Open Files" />
     <recentFileMasks>
-      <mask>*.xlif</mask>
-      <mask>*.xliff</mask>
-      <mask>!*.xml</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.x</mask>
@@ -34,6 +31,9 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>!*.css</mask>
+      <mask>!*.j</mask>
+      <mask>!*.js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
