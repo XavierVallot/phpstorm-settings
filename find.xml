@@ -3,16 +3,13 @@
     <option name="customScope" value="Open Files" />
     <option name="defaultScopeName" value="Open Files" />
     <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
       <mask>*.ym</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.ml</mask>
       <mask>*.yml</mask>
-      <mask>*.twig</mask>
-      <mask>*.twi</mask>
-      <mask>*.tw</mask>
-      <mask>*.t</mask>
       <mask>*e.php</mask>
       <mask>*ex.php</mask>
       <mask>*ext.php</mask>
@@ -34,6 +31,10 @@
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.xml</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
