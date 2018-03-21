@@ -3,15 +3,8 @@
     <option name="customScope" value="Open Files" />
     <option name="defaultScopeName" value="Open Files" />
     <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="FILE_MASK" value="*.yaml" />
     <recentFileMasks>
-      <mask>*.ym</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.ml</mask>
-      <mask>*.yml</mask>
-      <mask>*e.php</mask>
-      <mask>*ex.php</mask>
-      <mask>*ext.php</mask>
       <mask>*exte.php</mask>
       <mask>*exten.php</mask>
       <mask>*extens.php</mask>
@@ -32,8 +25,16 @@
       <mask>*.twi</mask>
       <mask>*.tw</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
+      <mask>*.yam</mask>
+      <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.ya</mask>
+      <mask>*.yaml</mask>
     </recentFileMasks>
   </component>
 </application>
