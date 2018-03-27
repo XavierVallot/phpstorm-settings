@@ -3,6 +3,7 @@
     <option name="customScope" value="Open Files" />
     <option name="defaultScopeName" value="Open Files" />
     <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*exte.php</mask>
       <mask>*exten.php</mask>
@@ -10,7 +11,6 @@
       <mask>*extensio.php</mask>
       <mask>*extension.php</mask>
       <mask>*</mask>
-      <mask>*.ph</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>!*.css</mask>
@@ -19,7 +19,6 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>*.twig</mask>
       <mask>*.twi</mask>
       <mask>*.tw</mask>
@@ -34,6 +33,8 @@
       <mask>*.ya</mask>
       <mask>*.yam</mask>
       <mask>*.yaml</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
