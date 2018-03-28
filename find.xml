@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="Open Files" />
     <option name="SEARCH_SCOPE" value="Open Files" />
     <recentFileMasks>
-      <mask>*exte.php</mask>
-      <mask>*exten.php</mask>
-      <mask>*extens.php</mask>
       <mask>*extensio.php</mask>
       <mask>*extension.php</mask>
       <mask>*</mask>
@@ -34,6 +31,9 @@
       <mask>*.yaml</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.py</mask>
+      <mask>*.pya</mask>
+      <mask>*.pyaml</mask>
     </recentFileMasks>
   </component>
 </application>
