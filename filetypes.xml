@@ -2,13 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
-      <mapping ext="paw" type="PLAIN_TEXT" />
       <mapping ext="last" type="PLAIN_TEXT" />
-      <mapping ext="xlf" type="XML" />
+      <mapping ext="paw" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="XML" />
-      <removed_mapping ext="yml" type="YAML" />
+      <mapping ext="xlf" type="XML" />
       <mapping ext="j2" type="YAML_EX" />
-      <mapping ext="yml" type="YAML_EX" />
     </extensionMap>
   </component>
 </application>
