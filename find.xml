@@ -16,5 +16,6 @@
     <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.yaml</mask>
+    <mask>*.env.dist</mask>
   </component>
 </application>
